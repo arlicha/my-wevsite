@@ -4,7 +4,7 @@
             }
             
             h1 {
-                font-size: 20px;
+                font-size: 30px;
             }
             
             .color {
@@ -35,4 +35,10 @@
             .top-banner {
                 background-image: url(img/top-banner.png );
                 background-repeat: no-repeat;
+            }
+            
+            .big-dream {
+                background-image: url(img/dream-bg.png);
+                background-repeat: no-repeat;
+                background-position: right;
             }
